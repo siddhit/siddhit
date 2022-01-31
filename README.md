@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @siddhit
+- 👀 I’m interested in product management
+- 🌱 I’m currently learning about APIs
+- 💞️ I’m looking to collaborate on API projects using the MERN stack
+- 📫 Reach me on LI at https://linkedin.com/in/SiddhitSanghavi!

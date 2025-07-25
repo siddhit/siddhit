@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @siddhit
-- 👀 I’m a PM @ Fyusion.
-- 🌱 I’m currently learning about and working with APIs
+- I'm passionate about building teams and tech for the offline, built and physical industries
+- 👀 I’m a remodeler specializing in bath and kitchen renovation
+- 🌱 I’m currently learning about AI infusion into my business
 - 📫 Reach me on LI at https://linkedin.com/in/SiddhitSanghavi!

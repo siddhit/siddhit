@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @siddhit
-- Tech, teams and tech for the offline, built and physical industries
-- Ex-remodeling small biz owner specializing in bath and kitchen renovation
-- Helping other trades and small biz owners automate and infuse AI in sensible, practical ways.
+- ⚙️ Passionate about building tech, teams and tech for the offline, built and physical industries
+- 👷‍♂️ Ex-remodeling small biz owner and manufacturing engineer.
+- 🎯 Helping other trades and small biz owners automate and infuse AI in sensible, practical ways.
 - 📫 Reach me on LI at https://linkedin.com/in/SiddhitSanghavi!

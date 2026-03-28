@@ -4,5 +4,4 @@
   with deployed tools, not slide decks
 - 🤖 Built AI call analysis pipelines, automation workflows with 
   OpenAI + Zapier, and IoT-integrated data systems
-- 📫 [LinkedIn](https://linkedin.com/in/SiddhitSanghavi)
-- Portfolio: (siddh.it)
+- 📫 [LinkedIn](https://linkedin.com/in/SiddhitSanghavi) | [siddh.it](https://siddh.it)

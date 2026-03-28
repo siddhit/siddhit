@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @siddhit
-- ⚙️ Passionate about building tech, teams and tech for the offline, built and physical industries
-- 👷‍♂️ Ex-remodeling small biz owner and manufacturing engineer.
-- 🎯 Helping other trades and small biz owners automate and infuse AI in sensible, practical ways.
-- 📫 Reach me on LI at https://linkedin.com/in/SiddhitSanghavi!
+- 🚀 Sr. PM with a background in AI/computer vision (Fyusion), 
+  manufacturing SaaS (Pashi YC W20), and automotive data (Ford)
+- 🏗️ Builder — I vibe-code side projects to prove product instincts 
+  with deployed tools, not slide decks
+- 🤖 Built AI call analysis pipelines, automation workflows with 
+  OpenAI + Zapier, and IoT-integrated data systems
+- 📫 linkedin.com/in/SiddhitSanghavi | siddh.it
